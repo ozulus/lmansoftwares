@@ -1,0 +1,170 @@
+/*general*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#cabecera{
+  
+    width: 98.6%;
+    border-radius: 0.5em;
+    background: blue;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font: 10px;
+    margin: 0.5em;
+    padding: 1em;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-style: bold;
+
+
+}
+
+#cabecera .logo { 
+
+right: 20em;
+}
+
+/*Fondo*/
+
+body{
+
+    background: rgb(0, 0, 0);
+    
+}
+
+/* Color letra */
+a { 
+
+color: rgb(156, 223, 0);
+text-decoration:none ;
+
+}
+
+/* Contenedor*/
+
+.contenedor {
+
+    width: 90%;
+    margin: auto;
+}
+
+
+.contenedor .logo {
+
+width: 100px;
+height: 100px;
+
+}
+
+
+.logo {
+ width: 100px;
+
+
+}
+
+
+#section{
+    height: 3000px;
+    border-radius: 1em;
+    background-color: rgb(139, 241, 236);
+    
+    margin: 2em;
+    padding: 0em;
+    color: white;
+    
+}
+
+
+
+.art1{ 
+    height: 370px;
+    width: 350px;
+  
+    background-color: darkgreen;
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    
+    border: solid 6px black;
+
+
+}
+
+.art2{ 
+    height: 370px;
+    width: 350px;
+
+    background-color: darkgreen;
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+
+}
+
+.art3{ 
+    height: 370px;
+    width: 350px;
+ 
+    background-color: darkgreen;
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+}
+
+
+.art4{ 
+    height: 370px;
+    width: 350px;
+  
+   background-color: darkgreen;
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+}
